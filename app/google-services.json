@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575803737742",
+    "firebase_url": "https://appdroid-aa1b6.firebaseio.com",
+    "project_id": "appdroid-aa1b6",
+    "storage_bucket": "appdroid-aa1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575803737742:android:6c5d235222c0476e",
+        "android_client_info": {
+          "package_name": "unifacear.edu.br.scanprojectlevi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575803737742-c099pnd4ll79h9agnq398kolrff1n2i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl3LrrdeX-ZpnUGs537SXE-bSBAxpeZxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575803737742-c099pnd4ll79h9agnq398kolrff1n2i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
